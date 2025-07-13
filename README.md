@@ -4,9 +4,9 @@
 
 ---
 
-## 🔍 Preview
-
 [🌐 Visit **Encify** Website ](https://encify.vercel.app/)
+
+## 🔍 Preview
 
 ![Encify Preview](/public/encify-preview.gif)
 
